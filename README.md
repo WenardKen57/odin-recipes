@@ -2,6 +2,10 @@
 
 A website with a bunch of recipes you can follow to cook delicious food
 
+# Preview
+
+![PreviewImage](./preview/preview.png)
+
 
 # Demonstrated skill in this project
 
