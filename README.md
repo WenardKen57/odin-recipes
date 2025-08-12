@@ -6,6 +6,10 @@ A website with a bunch of recipes you can follow to cook delicious food
 
 ![PreviewImage](./preview/preview.png)
 
+## Live
+
+[LinkLive](https://wenardken57.github.io/odin-recipes/)
+
 
 # Demonstrated skill in this project
 
